@@ -26,33 +26,33 @@
     }
   },
   "features": {
-    "miniTag": "A_Definir",
-    "title": "A_Definir",
-    "subtitle": "A_Definir",
+    "miniTag": "Áreas de Atuação",
+    "title": "Soluções jurídicas que fazem a diferença",
+    "subtitle": "Atendimento especializado em diversas áreas do Direito, com foco em resolver o que realmente importa para você.",
     "card1": {
-      "title": "A_Definir",
-      "subtitle": "A_Definir",
+      "title": "Direito Cível",
+      "subtitle": "Defesa e solução de conflitos nas relações civis.",
       "description": "A_Definir",
       "buttonLabelModal": "A_Definir",
       "buttonLabel": "A_Definir"
     },
     "card2": {
-      "title": "A_Definir",
-      "subtitle": "A_Definir",
+      "title": "Direito de Famílias",
+      "subtitle": "Apoio em divórcios, guarda, pensão e sucessões.",
       "description": "A_Definir",
       "buttonLabelModal": "A_Definir",
       "buttonLabel": "A_Definir"
     },
     "card3": {
-      "title": "A_Definir",
-      "subtitle": "A_Definir",
+      "title": "Direito Criminal",
+      "subtitle": "Defesa técnica em processos criminais e delitos.",
       "description": "A_Definir",
-      "buttonLabelModal": "A_Definir",
+    "buttonLabelModal": "A_Definir",
       "buttonLabel": "A_Definir"
     },
     "card4": {
-      "title": "A_Definir",
-      "subtitle": "A_Definir",
+      "title": "Consultoria Jurídica",
+      "subtitle": "Orientação preventiva e estratégica em questões legais.",
       "description": "A_Definir",
       "buttonLabelModal": "A_Definir",
       "buttonLabel": "A_Definir",
