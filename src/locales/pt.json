@@ -47,7 +47,7 @@
       "title": "Direito Criminal",
       "subtitle": "Defesa técnica em processos criminais e delitos.",
       "description": "A_Definir",
-    "buttonLabelModal": "A_Definir",
+      "buttonLabelModal": "A_Definir",
       "buttonLabel": "A_Definir"
     },
     "card4": {
@@ -83,13 +83,13 @@
     "imagem": {
       "alt": "imagem about"
     },
-    "miniTag": "A_Definir",
-    "title": "A_Definir",
-    "subtitle": "A_Definir",
+    "miniTag": "QUEM É A DRA. GIOVANNA MACIEL",
+    "title": "Minha trajetória",
+    "subtitle": "Transformando a advocacia em algo humano, próximo e feito para cuidar de você.",
     "buttonModalLabelAbout": "Continuar lendo",
-    "paragraph": "A_Definir",
-    "modal": "a_Definir",
-    "ctaButtonAriaLabel": "",
+    "paragraph": "O escritório nasceu do desejo de tornar a advocacia mais próxima, humana e acessível. Acreditamos que cada cliente traz consigo não apenas um processo, mas uma história de vida, com sonhos, desafios e sentimentos únicos. Por isso, nossa atuação vai além dos prazos e documentos: buscamos compreender a realidade de cada pessoa, oferecendo apoio, orientação clara e soluções que realmente façam sentido.",
+    "modal": "O escritório nasceu do desejo de tornar a advocacia mais próxima, humana e acessível. Acreditamos que cada cliente traz consigo não apenas um processo, mas uma história de vida, com sonhos, desafios e sentimentos únicos. Por isso, nossa atuação vai além dos prazos e documentos: buscamos compreender a realidade de cada pessoa, oferecendo apoio, orientação clara e soluções que realmente façam sentido. <br/> <br/> Mais do que resolver questões jurídicas, nosso propósito é acolher, ouvir e caminhar junto em cada etapa, construindo relações de confiança e respeito. Trabalhamos com dedicação porque entendemos que a advocacia deve ser um instrumento de justiça, mas também de cuidado com as pessoas e suas famílias. Aqui, você encontra não apenas advogados, mas parceiros comprometidos com o seu bem-estar e com a sua tranquilidade.",
+    "ctaButtonAriaLabel": " Quer saber mais sobre nós? Clique abaixo 👇",
     "ctaButtonText": "Entre em contato",
     "aboutSocial": {
       "miniTag": "A_Definir",
