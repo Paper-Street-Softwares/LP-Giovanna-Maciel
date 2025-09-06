@@ -2,7 +2,7 @@
   "infos": {
     "adress": "A_Definir <br/> A_Definir",
     "adressSecundario": "A_Definir",
-    "expediente": "Segunda a sexta-feira: <br/> A_Definir",
+    "expediente": "Segunda a sexta-feira: <br/> 9h às 18h",
     "expedienteSecundario": "A_Definir",
     "obs": "A_Definir"
   },
@@ -11,49 +11,48 @@
       "home": "Início",
       "service": "Serviços",
       "about": "Sobre Nós",
-      "faq": "Perguntas Frequentes",
-      "maps": "Mapa"
+      "faq": "Perguntas Frequentes"
     },
     "ctaButtonText": "Contato",
     "ctaButtonTextResponsive": "Contato"
   },
   "hero": {
-    "miniTag": "A_Definir",
-    "title": "A_Definir <span class=\"text-primary font-bold\">A_Definir</span>",
-    "subtitle": "A_Definir",
-    "ctaButtonText": "A_Definir",
+    "miniTag": "ADVOGADA EM SÃO PAULO - SP",
+    "title": "Advocacia clara, firme e <span class=\"text-primary font-bold\">eficiente</span>",
+    "subtitle": "Soluções jurídicas objetivas, com estratégia e dedicação para resolver o que realmente importa.",
+    "ctaButtonText": "Falar com a Dra. Giovanna",
     "obsHero": {
-      "text": "A_Definir"
+      "text": "Atendimento exclusivamente online para todo Brasil."
     }
   },
   "features": {
-    "miniTag": "A_Definir",
-    "title": "A_Definir",
-    "subtitle": "A_Definir",
+    "miniTag": "Áreas de Atuação",
+    "title": "Soluções jurídicas que fazem a diferença",
+    "subtitle": "Atendimento especializado em diversas áreas do Direito, com foco em resolver o que realmente importa para você.",
     "card1": {
-      "title": "A_Definir",
-      "subtitle": "A_Definir",
+      "title": "Direito Cível",
+      "subtitle": "Defesa e solução de conflitos nas relações civis.",
       "description": "A_Definir",
       "buttonLabelModal": "A_Definir",
       "buttonLabel": "A_Definir"
     },
     "card2": {
-      "title": "A_Definir",
-      "subtitle": "A_Definir",
+      "title": "Direito de Famílias",
+      "subtitle": "Apoio em divórcios, guarda, pensão e sucessões.",
       "description": "A_Definir",
       "buttonLabelModal": "A_Definir",
       "buttonLabel": "A_Definir"
     },
     "card3": {
-      "title": "A_Definir",
-      "subtitle": "A_Definir",
+      "title": "Direito Criminal",
+      "subtitle": "Defesa técnica em processos criminais e delitos.",
       "description": "A_Definir",
       "buttonLabelModal": "A_Definir",
       "buttonLabel": "A_Definir"
     },
     "card4": {
-      "title": "A_Definir",
-      "subtitle": "A_Definir",
+      "title": "Consultoria Jurídica",
+      "subtitle": "Orientação preventiva e estratégica em questões legais.",
       "description": "A_Definir",
       "buttonLabelModal": "A_Definir",
       "buttonLabel": "A_Definir",
@@ -84,13 +83,13 @@
     "imagem": {
       "alt": "imagem about"
     },
-    "miniTag": "A_Definir",
-    "title": "A_Definir",
-    "subtitle": "A_Definir",
+    "miniTag": "QUEM É A DRA. GIOVANNA MACIEL",
+    "title": "Minha trajetória",
+    "subtitle": "Transformando a advocacia em algo humano, próximo e feito para cuidar de você.",
     "buttonModalLabelAbout": "Continuar lendo",
-    "paragraph":"A_Definir",
-    "modal": "a_Definir",
-    "ctaButtonAriaLabel": "",
+    "paragraph": "O escritório nasceu do desejo de tornar a advocacia mais próxima, humana e acessível. Acreditamos que cada cliente traz consigo não apenas um processo, mas uma história de vida, com sonhos, desafios e sentimentos únicos. Por isso, nossa atuação vai além dos prazos e documentos: buscamos compreender a realidade de cada pessoa, oferecendo apoio, orientação clara e soluções que realmente façam sentido.",
+    "modal": "O escritório nasceu do desejo de tornar a advocacia mais próxima, humana e acessível. Acreditamos que cada cliente traz consigo não apenas um processo, mas uma história de vida, com sonhos, desafios e sentimentos únicos. Por isso, nossa atuação vai além dos prazos e documentos: buscamos compreender a realidade de cada pessoa, oferecendo apoio, orientação clara e soluções que realmente façam sentido. <br/> <br/> Mais do que resolver questões jurídicas, nosso propósito é acolher, ouvir e caminhar junto em cada etapa, construindo relações de confiança e respeito. Trabalhamos com dedicação porque entendemos que a advocacia deve ser um instrumento de justiça, mas também de cuidado com as pessoas e suas famílias. Aqui, você encontra não apenas advogados, mas parceiros comprometidos com o seu bem-estar e com a sua tranquilidade.",
+    "ctaButtonAriaLabel": " Quer saber mais sobre nós? Clique abaixo 👇",
     "ctaButtonText": "Entre em contato",
     "aboutSocial": {
       "miniTag": "A_Definir",
