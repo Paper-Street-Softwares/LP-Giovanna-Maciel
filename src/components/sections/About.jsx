@@ -24,7 +24,7 @@ export default function About({
     default: "bg-bgSectionDark",
   };
   const textClasses = {
-    dark: "text-white",
+    dark: "text-black",
     light: "text-black",
     default: "text-white",
   };
