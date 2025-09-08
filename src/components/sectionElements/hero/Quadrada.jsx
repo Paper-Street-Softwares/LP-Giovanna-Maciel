@@ -11,6 +11,7 @@ export default function Quadrada({ appDownloadButtons, colorMode }) {
     dark: "bg-bgFixedDark",
     light: "bg-bgFixedLight",
     default: "from-bgSectionDark to-black",
+    // default: "from-bgSectionDark to-black",
   };
 
   const bgGradient = backgroundClasses[colorMode] || backgroundClasses.default;
