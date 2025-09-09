@@ -31,10 +31,10 @@ const BackToTopButton = () => {
     <button
       className={`${
         isVisible ? "block animate-fade-in" : "hidden"
-      } fixed bottom-8 left-8 p-4 bg-white text-white border border-primary rounded-full z-10 focus:outline-none hover:scale-125 transition`}
+      } fixed bottom-8 left-8 p-4 bg-buttonColor text-white border border-primary rounded-full z-10 focus:outline-none hover:scale-125 transition`}
       onClick={scrollToTop}
     >
-      <ArrowUp className="text-primary" />
+      <ArrowUp className="text-labelButtons" />
     </button>
   );
 };

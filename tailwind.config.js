@@ -5,10 +5,10 @@ export const theme = {
     colors: {
       // Principais
 
-      primary: "#C6A363",
-      buttonColor: "#C6A363",
-      minititleDark: "#C6A363", //bg minitag de seções claras
-      minititle: "#C6A363", //bg minitag de seções escuras
+      primary: "#896031",
+      buttonColor: "#896031",
+      minititleDark: "#896031", //bg minitag de seções claras
+      minititle: "#896031", //bg minitag de seções escuras
 
       secondary: "#000000",
 
@@ -37,7 +37,7 @@ export const theme = {
       // Sombras
 
       shadowHero: "#FFFFFF",
-      shadowFeatures: "#C6A363",
+      shadowFeatures: "#896031",
       shadowAbouts: "#FFFFFF",
       shadowSteps: "#FFFFFF",
       shadowMaps: "#FFFFFF",
